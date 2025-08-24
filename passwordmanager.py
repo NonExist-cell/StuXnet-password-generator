@@ -233,7 +233,7 @@ class DarkStyle:
 class VaultGUI:
     def __init__(self, root: tk.Tk):
         self.root = root
-        self.root.title("Offline Password Manager")
+        self.root.title("NeonVault")
         self.fonts = Fonts(root)
         self.style = DarkStyle(root, self.fonts)
 
