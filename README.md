@@ -21,7 +21,7 @@ A fully offline, secure, and stylish password manager with a hackerish dark GUI.
 
 Most online password managers store your sensitive credentials on cloud servers. While convenient, this exposes you to potential hacks, data breaches, and unauthorized access. NeonVault is a fully offline password manager, meaning all your passwords are encrypted and stored locally on your device. No cloud, no servers, no accidental leaks. You are in full control, and your master password is never transmitted or stored anywhere.
 
-Using NeonVault minimizes risk while giving you strong cryptography (AES-256-GCM + scrypt KDF), a hacker-style interface, and automatic strong password generation for every account.
+Using NeonVault minimizes risk while giving you strong cryptography (AES-256-GCM + scrypt KDF), a interface, and automatic strong password generation for every account.
 
 ## Installation
 
