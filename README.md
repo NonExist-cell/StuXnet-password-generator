@@ -28,5 +28,5 @@ Using NeonVault minimizes risk while giving you strong cryptography (AES-256-GCM
 1. Clone or download this repository.
 2. Install dependencies:
 
-bash
+
 pip install cryptography
